@@ -1,2 +1,3 @@
-# cs50wproject1
-Harvard CS50W Second Project: Flask, Postgresql, Heroku, APIs
+# Project 1
+
+Web Programming with Python and JavaScript
