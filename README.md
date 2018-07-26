@@ -32,4 +32,5 @@ Files:
 * book.html ... shows book details, including Goodreads data (number of reviews on Goodreads for this book, and the average rating the book has on Goodreads). book.html also provides a field for the user to type a review for the current book and an input, limited to numbers 1 to 5, for the user to rate the book.
 * other_reviews.html ... shows a table of the reviews for the current book on this site. If the user has just written a review it appears at the top of this list.
 * error.html ... shows an error message if user tries to log in when they are already logged in. Provides a "Search again" button.
+* layout.html ... base HTML that all the other HTML files inherit from.
 * style.css ... some minimal css.
