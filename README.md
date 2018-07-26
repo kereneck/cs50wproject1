@@ -36,4 +36,4 @@ Files:
 * layout.html ... base HTML that all the other HTML files inherit from.
 * style.css ... some minimal css.
 
-All pages, except index.html, display the logged in user's username at the top left, and a "Logout" button at the top right.
+All pages, except index.html, login.html, logout.html and register.html, display the logged in user's username at the top left, and a "Logout" button at the top right.
