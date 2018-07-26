@@ -4,14 +4,16 @@
 
 ### Python Flask Web Application: Book Review site
 
-This web application fulfills the requirements of CS50x Web Programming course on edX.
+This web application fulfills the requirements of the Harvard University CS50x Web Programming course on edX.
 
-The technologies used are:
+The technologies used/demonstrated are:
 
 * Python 3.6
 * Flask
-* SQLAlchemy
+* SQL (PostgreSQL)
+* SQLAlchemy (non-ORM)
 * Git
 * Heroku web hosting
 * HTML5
-* Jinja2
+* Jinja2 templates
+* APIs, both using an API (Goodreads) and creating an API
