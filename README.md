@@ -23,8 +23,8 @@ you can view the application at [Project1 Book Review Site](https://cs50wproject
 Files:
 
 * application.py ... the python views and helper functions, plus db engine connection code, etc.
-* index.html ... root of the url. The user generally only sees this once per session. It contains 2 links: one to Login, and one to Register.
-* login.html ... form for user to input name and password.
+* index.html ... root of the url. The user generally only sees this once per session. It contains 2 links: one to Login, and one to Register. The user can only get back to this page if they manually edit the url.
+* login.html ... form for user to input name and password. Also provides a link to the registration page in case a user chooses Login at the index page (or if they enter the site url and put "/login" on the end of it) before they have an account.
 * register.html ... form for a new user to register a new user name and password.
 * logout.html ... just says "you are now logged out" and provides a button to login again.
 * search.html ... form for search functionality
