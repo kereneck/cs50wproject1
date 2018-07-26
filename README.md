@@ -31,6 +31,9 @@ Files:
 * result.html ... provides a table of search results and links to book details.
 * book.html ... shows book details, including Goodreads data (number of reviews on Goodreads for this book, and the average rating the book has on Goodreads). book.html also provides a field for the user to type a review for the current book and an input, limited to numbers 1 to 5, for the user to rate the book.
 * other_reviews.html ... shows a table of the reviews for the current book on this site. If the user has just written a review it appears at the top of this list.
+* no_results.html ... if there are no search results this page is shown. Provides a "Search again" button.
 * error.html ... shows an error message if user tries to log in when they are already logged in. Provides a "Search again" button.
 * layout.html ... base HTML that all the other HTML files inherit from.
 * style.css ... some minimal css.
+
+All pages, except index.html, display the logged in user's username at the top left, and a "Logout" button at the top right.
