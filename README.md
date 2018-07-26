@@ -1,6 +1,6 @@
-# CS50x Project 1
+# CS50x Web Programming with Python and JavaScript
 
-## Web Programming with Python and JavaScript
+## Project 1
 
 ### Python Flask Web Application: Book Review site
 
@@ -17,3 +17,5 @@ The technologies used/demonstrated are:
 * HTML5
 * Jinja2 templates
 * APIs, both using an API (Goodreads) and creating an API
+
+you can view the application at [Project1 Book Review Site](https://cs50wproject1.herokuapp.com)
